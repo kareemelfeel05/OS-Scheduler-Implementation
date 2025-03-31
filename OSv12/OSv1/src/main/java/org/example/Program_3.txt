@@ -1,0 +1,7 @@
+assign a input
+assign b input 
+assign x input
+print a
+print b
+print x
+
